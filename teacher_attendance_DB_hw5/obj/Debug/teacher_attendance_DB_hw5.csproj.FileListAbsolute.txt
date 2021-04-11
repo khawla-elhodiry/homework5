@@ -1,0 +1,10 @@
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\bin\Debug\teacher_attendance_DB_hw5.exe.config
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\bin\Debug\teacher_attendance_DB_hw5.exe
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\bin\Debug\teacher_attendance_DB_hw5.pdb
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.Form1.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.Properties.Resources.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.csproj.GenerateResource.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.exe
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB_hw5\teacher_attendance_DB_hw5\obj\Debug\teacher_attendance_DB_hw5.pdb
